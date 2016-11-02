@@ -19,7 +19,7 @@ module.exports = {
 
   // MongoDB
   database: {
-  url : process.env.MONGODB || "mongodb://admin:XYDNJAXLTJUHKBXE@sl-us-dal-9-portal.0.dblayer.com:16444/admin?ssl=true"
+  "uri": "mongodb://admin:XYDNJAXLTJUHKBXE@sl-us-dal-9-portal.0.dblayer.com:16444/admin?ssl=true"
   },
 
   tradeoff_analytics : {

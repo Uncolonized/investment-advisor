@@ -7,7 +7,7 @@ declared-services:
     label: tradeoff_analytics
     plan: standard
 applications:
-- name: advisor-app
+- name: investment-advisor-uncolonized-1420
   command: npm start
   path: .
   memory: 1G
